@@ -4,3 +4,4 @@ This repository consists of sample codes that are tried and executed with extens
 
 Stay tunned for more GoLang code commits
 Ref. Environment Setup Install GoLang `https://golang.org/`
+Ref. Visual Studio Code `https://code.visualstudio.com/Download`
